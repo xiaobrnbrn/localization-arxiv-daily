@@ -35,7 +35,12 @@ jobs:
       - name: Set up Python Env
         uses: actions/setup-python@v1
         with:
-          python-version: 3.7        
+          python-version: 3.7   
+          
+      - name: Install dependencies
+        run: |
+          python3.7 -m pip install arxiv
+          python3.7 -m pip install requests
           
       - name: Run daily arxiv 
         run: |
