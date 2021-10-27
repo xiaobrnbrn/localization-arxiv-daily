@@ -180,8 +180,6 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["Autonomous Driving Localization"]  = "Autonomous Driving Localization"
-    keywords["SLAM in Autonomous Driving"] = "Autonomous Driving"+"AND"+"\"SLAM\""
-    keywords["Map-based SLAM"]             = "Topological Map based SLAM"
 
     for topic,keyword in keywords.items():
  
