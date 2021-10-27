@@ -179,9 +179,9 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["SLAM"]                       = "SLAM"
+    keywords["Autonomous Driving Localization"]  = "Autonomous Driving Localization"
     keywords["SLAM in Autonomous Driving"] = "Autonomous Driving"+"AND"+"\"SLAM\""
-    keywords["Map-based SLAM"]             = "Topological Map"+"AND"+"Roadmap"+"AND"+"Roadnet"+"AND"+"\"SLAM\""
+    keywords["Map-based SLAM"]             = "Topological Map based SLAM"
 
     for topic,keyword in keywords.items():
  
