@@ -179,7 +179,8 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["SLAM"]  = "SLAM"
+    keywords["SLAM"]                    = "SLAM"
+    keywords["GPS-denied localization"] = "GPS-denied"
 
     for topic,keyword in keywords.items():
  
