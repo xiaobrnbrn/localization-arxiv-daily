@@ -179,7 +179,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Autonomous Driving Localization"]  = "Autonomous Driving Localization"
+    keywords["SLAM"]  = "SLAM"
 
     for topic,keyword in keywords.items():
  
