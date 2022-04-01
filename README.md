@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-30**|**GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios**|Chih-Yuan Chiu et.al.|[2203.16690v1](http://arxiv.org/abs/2203.16690v1)|null|
 |**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman et.al.|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
 |**2022-03-29**|**Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**|Mingjun Li et.al.|[2203.15439v1](http://arxiv.org/abs/2203.15439v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
